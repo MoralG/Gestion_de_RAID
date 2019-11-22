@@ -2,7 +2,6 @@
 
 ## Ejercicio: RAID 1
 
-----------------------------------------------------------------
 Vamos a crear una máquina virtual con un sistema operativo Linux. Esta máquina va a tener conectada dos discos virtuales de 1 GB. Debemos instalar el software necesario para crear un raid 1 con dichos discos, para ello realiza los siguientes ejercicios:
 
 * **Tarea 1:** Entrega un fichero Vagranfile donde definimos la máquina con los discos necesarios para hacer el ejercicio. Además al crear la máquina con vagrant se debe instalar el programa mdadm que nos permite la construcción del RAID.
@@ -18,7 +17,6 @@ Vamos a crear una máquina virtual con un sistema operativo Linux. Esta máquina
 
 ## Ejercicio: RAID 5
 
-----------------------------------------------------------------
 A continuación queremos crear un raid 5 en una máquina de 2 GB, para ello vamos a utilizar discos virtuales de 1 GB. Modifica el fichero Vagrantfile del ejercicio anterior para crear una nueva máquina.
 
 * **Tarea 1:** Crea una raid llamado md5 con los discos que hemos conectado a la máquina.
