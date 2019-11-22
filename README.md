@@ -1,5 +1,7 @@
 # Práctica: Gestión del almacenamiento de la información
 
+![RAID](RAID.jpg)
+
 ## Ejercicio: RAID 1
 
 Vamos a crear una máquina virtual con un sistema operativo Linux. Esta máquina va a tener conectada dos discos virtuales de 1 GB. Debemos instalar el software necesario para crear un raid 1 con dichos discos, para ello realiza los siguientes ejercicios:
